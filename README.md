@@ -2,7 +2,7 @@
 Memo for python-related things that may not be used frequently or easy to forget
 
 ## Python Language
-### Personal Naming convention
+### Personal Naming convention (for any language)
 - **Package and module**: short, all-lowercase
 - **Class**: CapitalizedWords
 - **Method**: lower_case_with_underscores
@@ -21,4 +21,4 @@ Memo for python-related things that may not be used frequently or easy to forget
   *make html*
 - **Highlights**
   * Autodoc is **not** enabled by default
-  * Use [napoleon](https://pypi.python.org/pypi/sphinxcontrib-napoleon) for parsing Numpy and Google style docstrings
+  * Use [napoleon](https://pypi.python.org/pypi/sphinxcontrib-napoleon) for parsing Numpy and [Google style](http://www.sphinx-doc.org/en/stable/ext/example_google.html#example-google) docstrings
