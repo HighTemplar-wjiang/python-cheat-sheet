@@ -8,6 +8,7 @@ Memo for python-related things that may not be used frequently
 - **General usage**
 
   *sphinx-apidoc [source] [target]*
+  
   *make html*
 - **Highlights**
   * Autodoc is **not** enabled by default
