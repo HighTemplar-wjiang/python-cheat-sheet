@@ -1,6 +1,15 @@
 # python-cheat-sheet
 Memo for python-related things that may not be used frequently
 
+## Python Language
+### Personal Naming convention
+- **Package and module**: short, all-lowercase
+- **Class**: CapitalizedWords
+- **Method**: lower_case_with_underscores
+- **Variable**: mixedCase
+- **Constant**: UPPERCASE
+- **Non public**: \_single_leading (method), \_singleLeading (variable)
+
 ## Python Documentation
 ### sphinx: best documentation tool for Python
 - **Website**: <http://www.sphinx-doc.org>
