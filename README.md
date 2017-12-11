@@ -1,5 +1,5 @@
 # python-cheat-sheet
-Memo for python-related things that may not be used frequently
+Memo for python-related things that may not be used frequently or easy to forget
 
 ## Python Language
 ### Personal Naming convention
