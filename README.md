@@ -8,7 +8,7 @@ Memo for python-related things that may not be used frequently or easy to forget
 - **Method**: lower_case_with_underscores
 - **Variable**: mixedCase
 - **Constant**: UPPERCASE
-- **Non public**: \_single_leading (method), \_singleLeading (variable)
+- **Non-public**: \_single_leading (method), \_singleLeading (variable)
 
 ## Python Documentation
 ### sphinx: best documentation tool for Python
