@@ -10,6 +10,10 @@ Memo for python-related things that may not be used frequently or easy to forget
 - **Constant**: UPPERCASE
 - **Non-public**: \_single_leading (method), \_singleLeading (variable)
 
+## Libraries
+### Regular experssion
+- **Greedy vs non-greey match**: .* vs. .*?
+
 ## Python Documentation
 ### sphinx: best documentation tool for Python
 - **Website**: <http://www.sphinx-doc.org>
@@ -22,3 +26,4 @@ Memo for python-related things that may not be used frequently or easy to forget
 - **Highlights**
   * Autodoc is **not** enabled by default
   * Use [napoleon](https://pypi.python.org/pypi/sphinxcontrib-napoleon) for parsing Numpy and [Google style](http://www.sphinx-doc.org/en/stable/ext/example_google.html#example-google) docstrings
+
