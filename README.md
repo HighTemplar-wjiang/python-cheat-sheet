@@ -2,13 +2,8 @@
 Memo for python-related things that may not be used frequently or easy to forget
 
 ## Python Language
-### Personal Naming convention (for any language)
-- **Package and module**: short, all-lowercase
-- **Class**: CapitalizedWords
-- **Method**: lower_case_with_underscores
-- **Variable**: mixedCase
-- **Constant**: UPPERCASE
-- **Non-public**: \_single_leading (method), \_singleLeading (variable)
+### Naming convention (Google Python Style Guide)
+module_name, package_name, ClassName, method_name, ExceptionName, function_name, GLOBAL_CONSTANT_NAME, global_var_name, instance_var_name, function_parameter_name, local_var_name.
 
 ## Libraries
 ### Regular experssion
